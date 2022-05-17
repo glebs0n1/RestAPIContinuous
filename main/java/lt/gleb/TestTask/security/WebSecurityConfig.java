@@ -1,4 +1,4 @@
-package lt.pusnis.ignitisTestTask.security;
+package lt.gleb.ignitisTestTask.security;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
