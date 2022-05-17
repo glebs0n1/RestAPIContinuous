@@ -1,4 +1,4 @@
-package lt.pusnis.ignitisTestTask.services;
+package lt.gleb.ignitisTestTask.services;
 
 import lt.pusnis.ignitisTestTask.models.MyMessage;
 import lt.pusnis.ignitisTestTask.repositories.MyMessagesRepository;
