@@ -1,4 +1,4 @@
-package lt.pusnis.ignitisTestTask.models;
+package lt.gleb.ignitisTestTask.models;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
