@@ -1,4 +1,4 @@
-package lt.pusnis.ignitisTestTask.controllers;
+package lt.gleb.ignitisTestTask.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
