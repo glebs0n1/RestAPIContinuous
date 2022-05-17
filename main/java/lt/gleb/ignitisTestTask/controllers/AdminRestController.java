@@ -1,4 +1,4 @@
-package lt.pusnis.ignitisTestTask.controllers;
+package lt.gleb.ignitisTestTask.controllers;
 
 import lt.pusnis.ignitisTestTask.models.MyMessage;
 import lt.pusnis.ignitisTestTask.models.MyRole;
