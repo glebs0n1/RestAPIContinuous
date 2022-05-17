@@ -1,4 +1,4 @@
-package lt.pusnis.ignitisTestTask.repositories;
+package lt.gleb.ignitisTestTask.repositories;
 
 import lt.pusnis.ignitisTestTask.models.MyUser;
 import org.springframework.data.repository.CrudRepository;
