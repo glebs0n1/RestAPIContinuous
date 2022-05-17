@@ -1,4 +1,4 @@
-package lt.pusnis.ignitisTestTask;
+package lt.gleb.ignitisTestTask;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
