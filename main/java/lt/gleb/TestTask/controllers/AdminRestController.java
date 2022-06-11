@@ -10,7 +10,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-
 @RestController
 @RequestMapping(path = "/admin")
 public class AdminRestController {
@@ -30,10 +29,8 @@ public class AdminRestController {
     public Iterable<MyRole> getAllRoles(){
         return roleService.getAllMyRoles();
     }
-
     @Autowired
     public MessageService messageService;
-
     //http://localhost:8081/admin/posts
     @GetMapping(path="/posts")
     public Iterable<MyMessage> getAllMessages(){
