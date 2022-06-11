@@ -9,7 +9,6 @@ CREATE TABLE roles(
   role_id INT AUTO_INCREMENT PRIMARY KEY,
   role_name VARCHAR(16) NOT NULL
 );
-
 CREATE TABLE messages(
   message_id INT AUTO_INCREMENT PRIMARY KEY,
   message_author INT NOT NULL,
