@@ -16,7 +16,7 @@ public class CustomErrorController implements ErrorController {
 
     @ModelAttribute
     public String getErrorPath(Model model, HttpServletRequest request) {
-        model.addAttribute("message", "Ups,Something went wrong!");
+        model.addAttribute("message", "Ups,Sorry...Something went wrong!");
         return "/error";
     }
 
